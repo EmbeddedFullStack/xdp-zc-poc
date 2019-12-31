@@ -1,5 +1,12 @@
 # XDP Zero Copy test/PoC
 
+## What is this
+
+This repository contains very simplified implementation of XDP ZeroCopy example,
+made for educational purposes.
+
+## Author
+
 Aleksander Dutkowski
 
 ## References
